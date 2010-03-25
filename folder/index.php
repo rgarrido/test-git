@@ -1,3 +1,3 @@
 <?php
-	header("Location: index_modified.php");
+	header("Location: index_2.php");
 ?>
